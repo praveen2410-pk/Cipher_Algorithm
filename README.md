@@ -13,7 +13,7 @@ This Java application provides functionality for decrypting data using the AES/C
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    https://github.com/praveen2410-pk/Cipher_Algorithm.git
     ```
 
 2. Open the project in your preferred Java IDE.
