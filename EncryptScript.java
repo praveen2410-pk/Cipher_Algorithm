@@ -5,8 +5,8 @@ import java.util.Base64;
 
 public class EncryptScript {
 
-    private static final String keyString = "79509819877EE4F2FF07C4B6406E94379412433E798D418C46A1DA7FCC17D38C";
-    private static final String ivString = "805928D9E7BB4483C6C501578AF0ACEE";
+    private static final String keyString = "23456779877EE4F2FF07C4B6406E94379412433E798D418C46A1DA7FCC17D38C"; //Key
+    private static final String ivString = "905928D9E7BB4483C6C501578AF0ACBB"; //IV
 
     public static void main(String[] args) {
         // Replace "YourParameterHere" with the actual parameter you want to encrypt
