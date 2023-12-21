@@ -43,9 +43,7 @@ public class DecryptScript {
     }
 }
 
-License
+**## License**
 This project is free and open-source with no specific license. It is considered to be in the public domain. Feel free to use, modify, and distribute it as needed for your purposes.
-
-
 
 Feel free to adapt the README according to your preferences and requirements. If you have any more requests or questions, let me know!
