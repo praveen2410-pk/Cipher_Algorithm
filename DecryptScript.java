@@ -7,8 +7,8 @@ import javax.crypto.spec.SecretKeySpec;
 public class DecryptScript {
 
     public static void main(String[] args) {
-        String keyString = "79509819877EE4F2FF07C4B6406E94379412433E798D418C46A1DA7FCC17D38C";
-        String ivString = "805928D9E7BB4483C6C501578AF0ACEE";
+        String keyString = "232522637373"; // Key
+        String ivString = "805928D9E7BBeerrC501578AF0ACEE"; //IV
 
         byte[] key = hexStringToByteArray(keyString);
         byte[] iv = hexStringToByteArray(ivString);
